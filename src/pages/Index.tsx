@@ -54,7 +54,7 @@ const services = [
 const masters = [
   { 
     id: 1, 
-    name: 'Анна Петрова', 
+    name: 'Ольга Еремеева', 
     specialization: 'Стилист-колорист', 
     experience: '8 лет', 
     photo: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop',
@@ -62,27 +62,11 @@ const masters = [
   },
   { 
     id: 2, 
-    name: 'Мария Иванова', 
+    name: 'Ольга Еремеева', 
     specialization: 'Визажист', 
     experience: '6 лет', 
     photo: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop',
     description: 'Эксперт по свадебному и вечернему макияжу'
-  },
-  { 
-    id: 3, 
-    name: 'Екатерина Сидорова', 
-    specialization: 'Мастер маникюра', 
-    experience: '5 лет', 
-    photo: 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&h=400&fit=crop',
-    description: 'Nail-арт и укрепление ногтей'
-  },
-  { 
-    id: 4, 
-    name: 'Ольга Козлова', 
-    specialization: 'Brow-мастер', 
-    experience: '4 года', 
-    photo: 'https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?w=400&h=400&fit=crop',
-    description: 'Архитектура бровей и lash-стилист'
   },
 ];
 
