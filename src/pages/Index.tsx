@@ -55,18 +55,18 @@ const masters = [
   { 
     id: 1, 
     name: 'Ольга Еремеева', 
-    specialization: 'Стилист-колорист', 
-    experience: '8 лет', 
+    specialization: 'Колорист-парикмахер', 
+    experience: '1 год', 
     photo: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop',
-    description: 'Специалист по сложным окрашиваниям и стрижкам'
+    description: 'Специалист по окрашиванию и стрижкам'
   },
   { 
     id: 2, 
-    name: 'Ольга Еремеева', 
-    specialization: 'Визажист', 
-    experience: '6 лет', 
+    name: 'Анастасия Лунева', 
+    specialization: 'Косметолог', 
+    experience: '2 года', 
     photo: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop',
-    description: 'Эксперт по свадебному и вечернему макияжу'
+    description: 'Профессиональный уход за кожей лица'
   },
 ];
 
