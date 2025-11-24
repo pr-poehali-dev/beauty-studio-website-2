@@ -120,7 +120,7 @@ export default function Index() {
     <div className="min-h-screen">
       <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm border-b border-border z-50">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <h1 className="text-2xl font-bold gradient-text">Bella Beauty</h1>
+          <h1 className="text-2xl font-bold gradient-text">Креатив</h1>
           <nav className="hidden md:flex gap-6">
             <a href="#services" className="text-sm font-medium hover:text-primary transition-colors">Услуги</a>
             <a href="#masters" className="text-sm font-medium hover:text-primary transition-colors">Мастера</a>
@@ -237,7 +237,7 @@ export default function Index() {
         <div className="container mx-auto text-center">
           <Badge className="mb-4 gradient-primary text-white">Премиум студия красоты</Badge>
           <h2 className="text-5xl md:text-7xl font-bold mb-6 gradient-text animate-fade-in">
-            Bella Beauty Studio
+            Студия красоты «Креатив»
           </h2>
           <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto animate-slide-up">
             Профессиональный уход за вашей красотой. Современные техники, опытные мастера, индивидуальный подход.
@@ -259,7 +259,7 @@ export default function Index() {
           <div className="mt-16 rounded-2xl overflow-hidden shadow-2xl">
             <img 
               src="https://cdn.poehali.dev/projects/a0e711b0-498e-43d4-af89-785a63d6aee8/files/39cdd250-f144-4e8c-9791-752a1f156a72.jpg" 
-              alt="Bella Beauty Studio" 
+              alt="Студия красоты Креатив" 
               className="w-full h-[400px] object-cover"
             />
           </div>
@@ -424,7 +424,7 @@ export default function Index() {
                 </div>
                 <CardTitle>Email</CardTitle>
                 <CardDescription>
-                  info@bellabeauty.ru<br />
+                  info@kreativ-beauty.ru<br />
                   Ответим в течение часа
                 </CardDescription>
               </CardHeader>
@@ -444,7 +444,7 @@ export default function Index() {
 
       <footer className="bg-foreground text-background py-8 px-4">
         <div className="container mx-auto text-center">
-          <h3 className="text-2xl font-bold mb-2 gradient-text">Bella Beauty Studio</h3>
+          <h3 className="text-2xl font-bold mb-2 gradient-text">Студия красоты «Креатив»</h3>
           <p className="text-sm opacity-80">© 2024 Все права защищены</p>
           <div className="flex gap-4 justify-center mt-4">
             <a href="#" className="hover:text-primary transition-colors">
